@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-ls-files": "^0.0.3"
+  }
+}
